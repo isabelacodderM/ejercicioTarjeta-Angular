@@ -19,4 +19,5 @@ describe('EjercicioTarjeta', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+  
 });
